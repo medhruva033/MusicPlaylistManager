@@ -1,4 +1,3 @@
-
 # Music Playlist Manager (C++)
 
 A console-based music playlist manager built using a manually
